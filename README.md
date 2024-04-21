@@ -8,9 +8,9 @@ Welcome to GreenPlate, an innovative project designed to revolutionize the way w
 
 The architecture of GreenPlate is built on robust design principles and patterns that ensure scalability, maintainability, and efficiency. Below are the UML diagrams that provide a clear visual representation of the application's design:
 
-**Design Diagrams**: This design  detail the structure of our classes, their interrelationships, and how they interact within the system.
+
+- ***Design class Diagram***: This design diagram details the structure of our classes, their interrelationships, and how they interact within the system.
   
-- ***Design class Diagram***
 ![Design Class Diagram for Ingredient and Recipe screens](GreenPlate_Ingredient_Recipe_DCD.jpg)
 
 We utilize a combination of Singleton, Strategy Pattern and Observer patterns to manage object creation and ensure that the system uses resources optimally.
