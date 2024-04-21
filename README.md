@@ -74,6 +74,6 @@ Special thanks to all team members who contributed to the development of GreenPl
 - **Zihan Chen**
 - **Trevor Goo**
 
-Special mention to **Yixiao Zhang**, **Zihan Chen**, **Sirui Lin** who were instrumental in the website's deployment.
+Special mention to **Yixiao Zhang**, **Zihan Chen**, **Sirui Lin**, and **Trevor Goo** who were instrumental in the website's deployment.
 
 
