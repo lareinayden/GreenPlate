@@ -76,7 +76,10 @@ For a deeper insight into how GreenPlate works, check out our video demonstratio
 
 ## Conclusions and Reflections/Learning
 
-Prior to this project, we had no experience using Android Studio or Firebase. It took four sprints to complete, in conjunction with integrating standard principles like Strategy patterns, SOLID/GRASP, creating UMLs, and MVVM architecture. Learning and applying these industry-standard design principles and architectural patterns not only enhanced our technical skills but also provided a deeper understanding of effective software development processes. Everyone got an oppurtunity to work on both the front-end and back-end of this system, giving us each a hollistic glimpse into the world of software development. 
+Before embarking on this project, our team had no prior experience with Android Studio or Firebase. The development process spanned four intensive sprints and involved integrating several industry-standard principles and architectural patterns, including Strategy patterns, SOLID/GRASP principles, creating UML diagrams, and implementing the Model-View-ViewModel (MVVM) architecture.
+
+Learning and applying these design principles and architectural frameworks significantly enhanced our technical skills and deepened our understanding of effective software development practices. The structured approach helped us to tackle complex challenges systematically and develop a robust, scalable application. Throughout the project, every team member had the opportunity to engage with both the front-end and back-end aspects of the system. This holistic exposure provided us with a comprehensive view of the software development world, enriching our capabilities and preparing us for future technological endeavors. The experience was transformative, broadening our perspective and fortifying our skills in software design and development.
+
 ## Contributors
 
 Special thanks to all team members who contributed to the development of GreenPlate. Each individual’s effort was vital in bringing this project to fruition:
