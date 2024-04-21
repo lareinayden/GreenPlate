@@ -10,7 +10,7 @@ The architecture of GreenPlate is built on robust design principles and patterns
 
 - **Design Class Diagrams**: These diagrams detail the structure of our classes, their interrelationships, and how they interact within the system.
 
-![Design Class Diagram](GreenPlate_DCD.jpg)
+![Design Class Diagram](GreenPlate_Ingredient_Recipe_DCD.jpg)
 
 We utilize a combination of Singleton and Observer patterns to manage object creation and ensure that the system uses resources optimally.
 
