@@ -8,11 +8,31 @@ Welcome to GreenPlate, an innovative project designed to revolutionize the way w
 
 The architecture of GreenPlate is built on robust design principles and patterns that ensure scalability, maintainability, and efficiency. Below are the UML diagrams that provide a clear visual representation of the application's design:
 
-- **Design Class Diagrams**: These diagrams detail the structure of our classes, their interrelationships, and how they interact within the system.
+- ***Use Case Scenarios***:
 
-![Design Class Diagram](path/to/design-class-diagram.png)
+-  ***Sequence Diagram***:
 
-We utilize a combination of Singleton and Observer patterns to manage object creation and ensure that the system uses resources optimally.
+![Sequence Diagram](GreenPlate_SD.jpg)
+   
+  
+- ***Design class Diagram***: This design diagram details the structure of our classes, their interrelationships, and how they interact within the system.
+  
+![Design Class Diagram for Ingredient and Recipe screens](GreenPlate_Ingredient_Recipe_DCD.jpg)
+
+We utilize a combination of Singleton, Strategy Pattern and Observer patterns to manage object creation and ensure that the system uses resources optimally.
+
+
+- **Singleton Design Pattern**:
+  We implemented Singleton Pattern in the UserInfoViewModel and the InputMealViewModel as we only need 1 ViewModel for each of the UserInfoActivity and InputMeal activity. These activities used the getInstance() method to get the functions in the  viewmodels to work as desired. Each class has a static private instance variable, which holds an individual instance of the class. This variable is initially set to null. Also, each class has a private constructor that is responsible for initializing the instance. The constructor initializes the databaseReference with the Firebase in the case of both UserInfoViewModel and InputMealViewModel. The use of getInstance()  method creates access from other classes to get the instance of the ViewModel. It ensures that only one instance of each ViewModel class is created and used throughout our application, and it provides a controlled actress to the Firebase reference.
+  
+- **Strategy Design Pattern**:
+  Our implementation of sortings align with the principles of the Strategy Pattern. We created a common interface RecipeSortingStrategy and individual classes for each sorting algorithm that implements RecipeSortingStrategy. We created the method setupSortingButtons， and called it within onCreate to initiate all buttons for sorting purposes. The  RecipeViewModel acts as the context, holding a reference to the functional interface that represents the chosen sorting behavior. This is exemplified in the methods in  RecipeViewModel. Sorting methods SortByDefault, SortByNameStrategy, SortByIngredientCount, each configuring the ViewModel to use a different sorting algorithm. This setup allows the sorting behavior to be changed dynamically, and it also ensures loose coupling in the implementation. The RecipeActivity interacts with the ViewModel by invoking these methods based on user input, extending the sorting methods of our application would not require changes to the RecipeViewModel or RecipeActivity.
+
+- **Observer Design Pattern**:
+
+
+
+    
 
 ## User Interface (UI)
 
