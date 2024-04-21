@@ -62,8 +62,7 @@ For a deeper insight into how GreenPlate works, check out our video demonstratio
 
 ## Conclusions and Reflections/Learning
 
-Reflecting on the GreenPlate project, we've encountered numerous challenges but also reaped significant learnings. Key contributions from our team have led to the development of a sophisticated tool that not only meets the needs of environmentally conscious users but also provides a platform for continuous learning and improvement. The journey taught us the importance of adaptability and the impact of collaborative effort in creating sustainable solutions.
-
+Prior to this project, we had no experience using Android Studio or Firebase. It took four sprints to complete, in conjunction with integrating standard principles like Strategy patterns, SOLID/GRASP, creating UMLs, and MVVM architecture. Learning and applying these industry-standard design principles and architectural patterns not only enhanced our technical skills but also provided a deeper understanding of effective software development processes. Everyone got an oppurtunity to work on both the front-end and back-end of this system, giving us each a hollistic glimpse into the world of software development. 
 ## Contributors
 
 Special thanks to all team members who contributed to the development of GreenPlate. Each individual’s effort was vital in bringing this project to fruition:
