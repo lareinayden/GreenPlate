@@ -39,20 +39,34 @@ We utilize a combination of Singleton, Strategy Pattern and Observer patterns to
 GreenPlate features a user-friendly interface that simplifies complex processes and enhances user engagement. Here's a visual tour of the app through various screenshots, showcasing the main functionalities and the interaction flow within the app:
 
 1. **Home Screen**:
-   ![Home Screen](path/to/homescreen.png)
-   *The home screen provides quick access to all major functions like .*
 
-2. **Ingredient Screen**:
-   ![Inventory Management](path/to/inventory.png)
+   <img src="HomeScreen.png" alt="Home Screen" width="200"/>
+
+   *The home screen allows users to input their own information and logout or exit the application.*
+
+3. **Ingredient Screen**:
+
+   <img src="IngredientScreen.png" alt="Ingredient Screen" width="200"/>
+
    *Users can easily add, remove, and monitor food items in their pantry.*
 
-3. **Recipe Screen**:
-   ![Shopping Assistant](path/to/shopping.png)
-   *The app .*
+5. **Meal Screen**:
+   
+   <img src="MealScreen.png" alt="Meal Screen" width="200"/>
 
-4. **Shoppinglist Screen**:
-   ![Shopping Assistant](path/to/shopping.png)
-   *The app .*
+   *The meal screen allows users to input their meals and see visualization and stats of meals.*
+   
+7. **Recipe Screen**:
+   
+   <img src="RecipeScreen.png" alt="Recipe Screen" width="200"/>
+
+   *The recipe screen allows users to share their recipes and view others' recipes, and recipe can easily convert to meals and ingredients in shopping list.*
+
+9. **Shoppinglist Screen**:
+    
+   <img src="ShoppingScreen.png" alt="ShoppingList Screen" width="200"/>
+
+   *The shopping list screen allows users to create a shopping list and buy items.*
 
 ## Functionality
 
@@ -74,6 +88,6 @@ Special thanks to all team members who contributed to the development of GreenPl
 - **Zihan Chen**
 - **Trevor Goo**
 
-Special mention to **Yixiao Zhang**, **Zihan Chen**, **Sirui Lin**, and **Trevor Goo** who were instrumental in the website's deployment.
+Special mention to **Yixiao Zhang**, **Zihan Chen**, **Sirui Lin**, **Qingzhou Shen** and **Trevor Goo** who were instrumental in the website's deployment.
 
 
