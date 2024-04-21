@@ -8,7 +8,8 @@ Welcome to GreenPlate, an innovative project designed to revolutionize the way w
 
 The architecture of GreenPlate is built on robust design principles and patterns that ensure scalability, maintainability, and efficiency. Below are the UML diagrams that provide a clear visual representation of the application's design:
 
-- ***Domain Model***:
+- ***Use Case Scenarios***:
+
 -  ***Sequence Diagram***:
 
 ![Sequence Diagram](GreenPlate_SD.jpg)
@@ -28,6 +29,9 @@ We utilize a combination of Singleton, Strategy Pattern and Observer patterns to
   Our implementation of sortings align with the principles of the Strategy Pattern. We created a common interface RecipeSortingStrategy and individual classes for each sorting algorithm that implements RecipeSortingStrategy. We created the method setupSortingButtons， and called it within onCreate to initiate all buttons for sorting purposes. The  RecipeViewModel acts as the context, holding a reference to the functional interface that represents the chosen sorting behavior. This is exemplified in the methods in  RecipeViewModel. Sorting methods SortByDefault, SortByNameStrategy, SortByIngredientCount, each configuring the ViewModel to use a different sorting algorithm. This setup allows the sorting behavior to be changed dynamically, and it also ensures loose coupling in the implementation. The RecipeActivity interacts with the ViewModel by invoking these methods based on user input, extending the sorting methods of our application would not require changes to the RecipeViewModel or RecipeActivity.
 
 - **Observer Design Pattern**:
+
+
+
     
 
 ## User Interface (UI)
