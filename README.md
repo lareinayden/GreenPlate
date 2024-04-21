@@ -39,24 +39,23 @@ We utilize a combination of Singleton, Strategy Pattern and Observer patterns to
 GreenPlate features a user-friendly interface that simplifies complex processes and enhances user engagement. Here's a visual tour of the app through various screenshots, showcasing the main functionalities and the interaction flow within the app:
 
 1. **Home Screen**:
-   ![Home Screen](HomeScreen.png)
+   <img src="HomeScreen.png" alt="Home Screen" width="200"/>
    *The home screen allows users to input their own information and logout or exit the application.*
 
 2. **Ingredient Screen**:
-   ![Inventory Management](IngredientScreen.png)
+   <img src="IngredientScreen.png" alt="Ingredient Screen" width="200"/>
    *Users can easily add, remove, and monitor food items in their pantry.*
 
 3. **Meal Screen**:
-   ![Meal Management](MealScreen.png)
+   <img src="MealScreen.png" alt="Meal Screen" width="200"/>
    *The meal screen allows users to input their meals and see visualization and stats of meals.*
    
-
-5. **Recipe Screen**:
-   ![Recipe Sharing](RecipeScreen.png)
+4. **Recipe Screen**:
+   <img src="RecipeScreen.png" alt="Recipe Screen" width="200"/>
    *The recipe screen allows users to share their recipes and view others' recipes, and recipe can easily convert to meals and ingredients in shopping list.*
 
-6. **Shoppinglist Screen**:
-   ![Shopping Assistant](ShoppingScreen.png)
+5. **Shoppinglist Screen**:
+   <img src="ShoppingScreen.png" alt="ShoppingList Screen" width="200"/>
    *The shopping list screen allows users to create a shopping list and buy items.*
 
 ## Functionality
