@@ -11,7 +11,7 @@ The architecture of GreenPlate is built on robust design principles and patterns
 - ***Domain Model***:
 -  ***Sequence Diagram***:
 
-![Design Class Diagram for Ingredient and Recipe screens](GreenPlate_Ingredient_Recipe_DCD.jpg)
+![Sequence Diagram](GreenPlate_SD.jpg)
    
   
 - ***Design class Diagram***: This design diagram details the structure of our classes, their interrelationships, and how they interact within the system.
