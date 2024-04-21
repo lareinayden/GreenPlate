@@ -40,15 +40,19 @@ GreenPlate features a user-friendly interface that simplifies complex processes 
 
 1. **Home Screen**:
    ![Home Screen](path/to/homescreen.png)
-   *The home screen provides quick access to all major functions like inventory tracking, shopping lists, and recipes.*
+   *The home screen provides quick access to all major functions like .*
 
-2. **Inventory Management**:
+2. **Ingredient Screen**:
    ![Inventory Management](path/to/inventory.png)
    *Users can easily add, remove, and monitor food items in their pantry.*
 
-3. **Shopping Assistant**:
+3. **Recipe Screen**:
    ![Shopping Assistant](path/to/shopping.png)
-   *The app suggests sustainable alternatives and local products to reduce carbon footprint.*
+   *The app .*
+
+4. **Shoppinglist Screen**:
+   ![Shopping Assistant](path/to/shopping.png)
+   *The app .*
 
 ## Functionality
 
