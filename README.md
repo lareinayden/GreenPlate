@@ -66,7 +66,7 @@ GreenPlate features a user-friendly interface that simplifies complex processes 
    *The recipe screen allows users to create recipes and access all other recipes created by other users.*
    *Hitting create recipe creates a dialog which user can press the add button and create a recipe with however many different ingredient the user wants. Upon saving, the recipe is saved to the database, and it will be updated on the same screen, where all user can see.*
    *There are two buttons beside each recipe, "add" and "expand". If the user does not have enough ingredient, the "expand" button cannot be clicked. Hitting the "add" button will automatically add ingredients to the shopping list. If the user has enough ingredients, the "add" button will turn into "cook" button, indicating that the user has enough ingredients. Now, user can expand to see the ingredients, or cook, which will consume all the ingredients in the pantry and adding the meal to the meal user eats today.*
-   *Also, we provid two sorting methods for sorting the recipe based on the name, and how much ingredients the recipe requires.*
+   *Also, we provide two sorting methods for sorting the recipe based on the name, and how much ingredients the recipe requires.*
 
 9. **Shoppinglist Screen**:
     
