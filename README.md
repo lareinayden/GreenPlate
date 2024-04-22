@@ -36,35 +36,44 @@ In our application, we implemented the Observer pattern using LiveData within th
 
 GreenPlate features a user-friendly interface that simplifies complex processes and enhances user engagement. Here's a visual tour of the app through various screenshots, showcasing the main functionalities and the interaction flow within the app:
 
-1. **Home Screen**:
+1. **User Info Screen**:
 
    <img src="HomeScreen.png" alt="Home Screen" width="200"/>
 
-   *The home screen allows users to input their own information and logout or exit the application.*
+   *The user info screen allows users to input their own information and logout or exit the application.*
+   *User can enter height, weight and gender. After hitting the submit button, the user's information will be updated in the remote realtime database.*
 
 3. **Ingredient Screen**:
 
    <img src="IngredientScreen.png" alt="Ingredient Screen" width="200"/>
 
    *Users can easily add, remove, and monitor food items in their pantry.*
+   *Pressing hte "Add Ingredient" button will generate a dialog, where user can enter the ingredient name, quantity and calories for the ingredient. Hitting the submit button will store the user's ingredients into the database. All the ingredients will also be updated on the same screen, where user can click on the name, and modify the name, quantity and calories of the chosen ingredient.*
 
 5. **Meal Screen**:
    
    <img src="MealScreen.png" alt="Meal Screen" width="200"/>
 
-   *The meal screen allows users to input their meals and see visualization and stats of meals.*
+   *The meal screen keeps track of the meals that the user has consumed. It takes the info stored at the "User Info" screen and automatically computes the calorie goal of the user per day.*
+   *User can click on the user visualization to compare the height and weight among all users, and meal visualization to see how much calories each meal takes with a line chart.*
+   *User can enter the meal name and calories manually, and hit submit, to save the meal to the database, and the meal eaten will automatically show at the bottom of the screen within the scollable list. The meal visualization will also be updated upon clicking.*
+
    
 7. **Recipe Screen**:
    
    <img src="RecipeScreen.png" alt="Recipe Screen" width="200"/>
 
-   *The recipe screen allows users to share their recipes and view others' recipes, and recipe can easily convert to meals and ingredients in shopping list.*
+   *The recipe screen allows users to create recipes and access all other recipes created by other users.*
+   *Hitting create recipe creates a dialog which user can press the add button and create a recipe with however many different ingredient the user wants. Upon saving, the recipe is saved to the database, and it will be updated on the same screen, where all user can see.*
+   *There are two buttons beside each recipe, "add" and "expand". If the user does not have enough ingredient, the "expand" button cannot be clicked. Hitting the "add" button will automatically add ingredients to the shopping list. If the user has enough ingredients, the "add" button will turn into "cook" button, indicating that the user has enough ingredients. Now, user can expand to see the ingredients, or cook, which will consume all the ingredients in the pantry and adding the meal to the meal user eats today.*
+   *Also, we provid two sorting methods for sorting the recipe based on the name, and how much ingredients the recipe requires.*
 
 9. **Shoppinglist Screen**:
     
    <img src="ShoppingScreen.png" alt="ShoppingList Screen" width="200"/>
 
    *The shopping list screen allows users to create a shopping list and buy items.*
+   *User can add a number of ingredients to the shopping list, which will be added to the shopping list database. Clicking the checkbox on the left will allow the user to select which ingredients to buy. The "Buy Ingredients" button, which functions the same as its name, buys the ingredients and add them to the database.*
 
 ## Functionality
 
