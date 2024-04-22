@@ -91,9 +91,6 @@ For a deeper insight into how GreenPlate works, check out our video demonstratio
   
 <iframe src="https://drive.google.com/file/d/1TLtubsspMA29hRYDtmYniZjlqOFb015n/preview" width="640" height="480" allow="autoplay"></iframe>
   
-  <!--allow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
 </body>
 </html>
