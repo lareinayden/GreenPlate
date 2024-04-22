@@ -3,8 +3,11 @@
 ## Introduction
 
    Welcome to GreenPlate, an innovative project designed to revolutionize the way we think about and manage our food. At the heart of GreenPlate is our commitment to promoting sustainable food management. GreenPlate is not merely a tool; it's a movement towards a sustainable future, focusing on minimizing food waste and optimizing resource use. Our project aligns closely with contemporary needs to conserve and responsibly manage our environmental resources by integrating advanced, user-friendly technology into the daily lives of our users.
+   
    At GreenPlate, we are dedicated to fostering sustainable eating and shopping habits, enabling users to contribute actively to environmental conservation. By offering functionalities like meal logging, recipe creation, and comprehensive shopping list management, GreenPlate addresses the core aspects of food sustainability. Our application helps users plan and manage their food resources more efficiently, ensuring that every meal is prepared thoughtfully and every purchase is made wisely.
+   
    GreenPlate also serves as a platform for users to track their daily calorie intake while providing actionable insights into their food consumption patterns. This holistic approach not only aids in reducing food waste but also promotes healthier eating practices. With features that are intuitively designed to cater to the needs of the environmentally conscious gourmand, GreenPlate is pioneering a path to a greener planet, one meal at a time.
+   
    This website is designed to showcase the various facets of the GreenPlate project, detailing the innovative features and the technologies employed. From our commitment to using robust design patterns that enhance scalability and maintainability, to our efforts in creating a user-centric interface, every element of GreenPlate is crafted with precision and purpose. Join us as we explore how GreenPlate is setting new standards in the domain of sustainable food management, making it an indispensable tool for anyone committed to a sustainable lifestyle.
 
 ## Design & Architecture
