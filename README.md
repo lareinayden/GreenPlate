@@ -81,7 +81,7 @@ GreenPlate features a user-friendly interface that simplifies complex processes 
 
 For a deeper insight into how GreenPlate works, check out our video demonstration below. This video covers various features and showcases the real-time capabilities of the app:
 
-[![Watch the video]](https://drive.google.com/file/d/1TLtubsspMA29hRYDtmYniZjlqOFb015n/preview)
+[Watch the video](https://drive.google.com/file/d/1TLtubsspMA29hRYDtmYniZjlqOFb015n/preview)
   
   
 
