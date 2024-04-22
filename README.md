@@ -2,9 +2,7 @@
 
 ## Introduction
 
-   Welcome to GreenPlate, an innovative project crafted to transform the way we manage and think about food! 
-   
-   GreenPlate is more than just a tool, it is a movement towards a sustainable future, focusing on minimizing food waste and optimizing resource utilization. This initiative plays a pivotal role in enhancing sustainable eating and shopping habits, empowering users to make eco-friendly choices that benefit both the planet and their health. Our platform aligns with contemporary environmental conservation efforts by seamlessly integrating advanced, user-friendly technology into the daily routines of our users. With features like meal logging, recipe creation, and comprehensive shopping list management, GreenPlate empowers users to plan and execute their food consumption thoughtfully and efficiently, ensuring each meal is prepared and each purchase is made with sustainability in mind. Now, join us on a journey through GreenPlate’s contributions to fostering sustainable lifestyles!
+   Welcome to GreenPlate, an innovative project crafted to transform the way we manage and think about food! GreenPlate is more than just a tool, it is a movement towards a sustainable future, focusing on minimizing food waste and optimizing resource utilization. This initiative plays a pivotal role in enhancing sustainable eating and shopping habits, empowering users to make eco-friendly choices that benefit both the planet and their health. Our platform aligns with contemporary environmental conservation efforts by seamlessly integrating advanced, user-friendly technology into the daily routines of our users. With features like meal logging, recipe creation, and comprehensive shopping list management, GreenPlate empowers users to plan and execute their food consumption thoughtfully and efficiently, ensuring each meal is prepared and each purchase is made with sustainability in mind. Now, join us on a journey through GreenPlate’s contributions to fostering sustainable lifestyles!
 
 ## Design & Architecture
 
